@@ -1,4 +1,4 @@
-# ExamenCI3641_ExamenIV
+# ExamenIV_CI3641
 ### Pregunta 1.b.i
 El código relacionado esta en el archivo ```pregunta1b_i.rb ```
 ### Pregunta 1.b.ii
